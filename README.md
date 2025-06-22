@@ -5,7 +5,7 @@
 
 ## AWS Virtual Private Cloud Concepts
 
-- **Virtual Private Cloud.**<br>
+## - **Virtual Private Cloud.**<br>
 - **CIDR Block.**
 - **Internet Gateway.**
 - **Subnets.**
@@ -20,6 +20,6 @@
 
 ![Image](https://github.com/user-attachments/assets/2e596ae3-e485-4069-a268-47261e2423a4)
 
-**Note:**<br>
-**You Should be able to Implement Virtual Private Cloud in Amazon Web Services.**
+## **Note:**<br>
+## **You Should be able to Implement Virtual Private Cloud in Amazon Web Services.**
 
