@@ -16,7 +16,8 @@
 - Deploy Application into Kubernetes Cluster.
 - Send CICD Pipeline Execution Status to Slack.
 
-![CICD](/Users/pavankumarkj/Desktop/AWS_Virtual_Private_Cloud.jpeg)
+
+![CICD](https://github.com/PavanKumarKJ347/AWS_Virtual_Private_Cloud/blob/main/AWS_Virtual_Private_Cloud.jpeg?raw=true)
   
 
 Note:
