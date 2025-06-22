@@ -1,5 +1,6 @@
-Virtual Private Cloud is a private network in which we can provision resources like servers, storages and load balancers etc.
-Virtual Private Cloud contains both public and private subnets which are created in Multiple Availability Zones.
+## Virtual Private Cloud
+### Virtual Private Cloud is a private network in which we can provision resources like servers, storages and load balancers etc.
+### Virtual Private Cloud contains both public and private subnets which are created in Multiple Availability Zones.
 
 CIDR Block
 Classes Inter Domain Routing is a method for allocating IP addresses and its routing to resources provisioned in private networks.
