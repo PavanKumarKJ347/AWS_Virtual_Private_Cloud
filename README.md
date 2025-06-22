@@ -1,7 +1,7 @@
 
 # AWS Virtual Private Cloud
 
-## This Repository can be used to Understand and Implement Virtual Private Cloud in Amazon Web Services.
+## This Repository can be used to Understand and Implement Networking in Amazon Web Services using Virtual Private Cloud..
 
 ## AWS Virtual Private Cloud Concepts
 
@@ -23,4 +23,4 @@
 
 
 ## **Note**
-**You Should be able to Implement Virtual Private Cloud in Amazon Web Services.**
+**You Should be able to Implement Networking in Amazon Web Services using Virtual Private Cloud.**
