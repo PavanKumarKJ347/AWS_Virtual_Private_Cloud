@@ -25,7 +25,7 @@
 **Servers in private subnet cannot access internet and we cannot reach servers from internet.**<br>
 **Private Subnets will not have a route connection to internet gateway in route table.**
 
-**Note**
+**Note**<br>
 **Resources created in public subnet can be accessed from internet.**<br>
 **Resources created in private subnet cannot be accessed from internet.**<br>
 **Resources created in public and private subnet can be communicated with each other within same network.**
