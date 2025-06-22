@@ -18,7 +18,7 @@
 - Public IPs.
 - Private IPs.
 
-![CICD](https://github.com/PavanKumarKJ347/AWS_Virtual_Private_Cloud/blob/main/AWS_Virtual_Private_Cloud.jpeg?raw=true)
+![Image](https://github.com/user-attachments/assets/2e596ae3-e485-4069-a268-47261e2423a4)
 
 Note:
 You Should be able to Implement Virtual Private Cloud in Amazon Web Services.
