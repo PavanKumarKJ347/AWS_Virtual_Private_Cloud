@@ -1,24 +1,24 @@
 
-# End to End CICD Pipeline Project
+# AWS Virtual Private Cloud
 
-## This Project can be used to Build an End to End CICD Pipeline.
+## This Repository can be used to Understand and Implement Virtual Private Cloud in Amazon Web Services
 
-## CICD Pipeline Stages
+## AWS Virtual Private Cloud Concepts
 
-- Checkout Code from GitHub.
-- Build Project.
-- Execute SonarQube Test.
-- Upload Build Artifact to Sonatype Nexus.
-- Build Docker Image.
-- Push Docker Image to Docker Hub Registry.
-- Remove Docker Image Locally in Jenkins.
-- Update Docker Image Tag in Kubernetes Manifest.
-- Deploy Application into Kubernetes Cluster.
-- Send CICD Pipeline Execution Status to Slack.
-
+- Virtual Private Cloud.
+- CIDR Block.
+- Internet Gateway.
+- Subnets.
+- Public Subnet.
+- Private Subnet.
+- Route Tables.
+- NAT Gateway.
+- Network Access Control List.
+- Security Group.
+- Public IPs.
+- Private IPs.
 
 ![CICD](https://github.com/PavanKumarKJ347/AWS_Virtual_Private_Cloud/blob/main/AWS_Virtual_Private_Cloud.jpeg?raw=true)
-  
 
 Note:
-Application can be deployed to Kubernetes Cluster using Kubernetes Manifest Files as well as Helm Chart.
+You Should be able to Implement Virtual Private Cloud in Amazon Web Services.
