@@ -18,14 +18,14 @@
 ## **Public Subnet**
 **Subnet which will have an access to internet called as public subnet.**<br>
 **Servers in public subnet can access internet and we can also reach servers from internet.**<br>
-**Public Subnets will have a route connection to internet gateway in route table.**
-**Resources created in public subnet can be accessed from internet.**<br>
+**Public Subnets will have a route connection to internet gateway in route table.**<br>
+**Resources created in public subnet can be accessed from internet.**
 
 ## **Private Subnet**
 **Subnet which does not have an access to internet called as private subnet.**<br>
 **Servers in private subnet cannot access internet and we cannot reach servers from internet.**<br>
-**Private Subnets will not have a route connection to internet gateway in route table.**
-**Resources created in private subnet cannot be accessed from internet.**<br>
+**Private Subnets will not have a route connection to internet gateway in route table.**<br>
+**Resources created in private subnet cannot be accessed from internet.**
 
 ## **Note**<br>
 **Resources created in public and private subnet can be communicated with each other within same network.**
