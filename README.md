@@ -20,4 +20,4 @@
 
 ![Image](https://github.com/user-attachments/assets/2e596ae3-e485-4069-a268-47261e2423a4)
 
-## You Should be able to Implement Networking in Amazon Web Services using Virtual Private Cloud.
+## Virtual Private Cloud Should be Implemented in Amazon Web Services.
